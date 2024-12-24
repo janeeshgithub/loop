@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'http://192.168.168.20:8080/';
+        iframe.src = 'https://chris77.netlify.app';
         /**
          * Use dev server is query params are present
          *
