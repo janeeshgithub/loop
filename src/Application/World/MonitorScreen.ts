@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://chris77.netlify.app';
+        iframe.src = 'https://loop-indol-omega.vercel.app/';
         /**
          * Use dev server is query params are present
          *
