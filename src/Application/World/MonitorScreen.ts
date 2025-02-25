@@ -141,8 +141,6 @@ export default class MonitorScreen extends EventEmitter {
         container.style.opacity = '1';
         container.style.background = '#1d2e2f';
         
-        container.style.transform = 'scale(1.25)';
-        container.style.transformOrigin = 'top left';
 
         // Create iframe
         const iframe = document.createElement('iframe');
